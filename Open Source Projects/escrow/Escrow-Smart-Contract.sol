@@ -8,16 +8,9 @@ ___________________________________________________________________
 __/__|____(___ _/___(___ _(___/_/_/__/_(___ _____/______(___/__o_o_
 
 
-
-████████╗██╗██████╗  ██████╗     ██████╗  █████╗ ██╗   ██╗
-╚══██╔══╝██║██╔══██╗██╔═══██╗    ██╔══██╗██╔══██╗╚██╗ ██╔╝
-   ██║   ██║██████╔╝██║   ██║    ██████╔╝███████║ ╚████╔╝ 
-   ██║   ██║██╔══██╗██║   ██║    ██╔═══╝ ██╔══██║  ╚██╔╝  
-   ██║   ██║██║  ██║╚██████╔╝    ██║     ██║  ██║   ██║   
-   ╚═╝   ╚═╝╚═╝  ╚═╝ ╚═════╝     ╚═╝     ╚═╝  ╚═╝   ╚═╝   
                                                           
 
-=== 'TiroPay' Escrow contract with following features ===
+=== 'Escrow'  contract with following features ===
     => Ownership management 
     => Signer, a sub-owner wallet will process manual escrow 
     => USDT will be used as escrow fund
@@ -30,7 +23,7 @@ __/__|____(___ _/___(___ _(___/_/_/__/_(___ _____/______(___/__o_o_
 
 
 -------------------------------------------------------------------
- Copyright (c) 2020 onwards  TiroPay Inc. ( https://tiropay.com )
+ Copyright (c) 2020 onwards  TiroPay Inc. ( https://EtherAuthority.io )
  Contract designed with ❤ by EtherAuthority ( https://EtherAuthority.io )
 -------------------------------------------------------------------
 */ 
