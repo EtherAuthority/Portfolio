@@ -23,7 +23,7 @@ __/__|____(___ _/___(___ _(___/_/_/__/_(___ _____/______(___/__o_o_
 
 
 -------------------------------------------------------------------
- Copyright (c) 2020 onwards  TiroPay Inc. ( https://EtherAuthority.io )
+ Copyright (c) 2020 onwards  EtherAuthority ( https://EtherAuthority.io )
  Contract designed with ❤ by EtherAuthority ( https://EtherAuthority.io )
 -------------------------------------------------------------------
 */ 
