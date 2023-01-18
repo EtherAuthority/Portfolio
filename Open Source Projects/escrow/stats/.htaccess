@@ -1,7 +1,0 @@
-AuthName "escrow.etherauthority.io statistics"
-AuthType Basic
-AuthUserFile /home/etherauthority/domains/escrow.etherauthority.io/.stats-htpasswd
-require valid-user
-<Files .stats-htpasswd>
-deny from all
-</Files>
